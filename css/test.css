@@ -1,0 +1,27 @@
+body{
+  background-color: lightgoldenrodyellow;
+}
+h1 {
+font-size: 30px;
+color: darksalmon;
+}
+h2 {
+color: firebrick;
+font-size: 20px;
+}
+
+h2 {
+color: tomato;
+}
+.big{
+font-size: 45px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: navy;
+}
+h1 span{
+color: gold;
+}
